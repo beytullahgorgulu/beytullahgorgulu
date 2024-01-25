@@ -14,12 +14,12 @@
 <!-- </h2>  -->
 <!--Coder Pic-->
 <div id="header" align="center">
-<img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="300"/> 
+<img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="100"/> 
 
 <br>
 <!--Keep Coding Resmi-->
 <div id="header" align="center">
-<img src=https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif width="200"/>
+<img src=https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif width="100"/>
 <br>
 
 <!-- yorum satiri
@@ -46,10 +46,12 @@
 -->
 <!--java-->
   <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+<!--SQL-->
+  <a href="https://1000logos.net/mysql-logo/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" width="60" height="40"/></a> 
 <!--css3-->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://pixabay.com/illustrations/logo-css-css3-icon-2582747/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="45" height="45"/> </a>
 <!--html5-->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://pixabay.com/illustrations/logo-html-html5-icon-2582748/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"    original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
 <!--git-->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--postgresql  
