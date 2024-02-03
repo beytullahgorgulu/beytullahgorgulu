@@ -14,12 +14,12 @@
 <!-- </h2>  -->
 <!--Coder Pic-->
 <div id="header" align="center">
-<img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="100"/> 
+<img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="300"/> 
 
 <br>
 <!--Keep Coding Resmi-->
 <div id="header" align="center">
-<img src=https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif width="100"/>
+<img src=https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif width="200"/>
 <br>
 
 <!-- yorum satiri
