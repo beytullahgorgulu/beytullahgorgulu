@@ -72,11 +72,11 @@
   </a>
 -->
 <!--JUnit-->
-    <a href="https://github.com/junit-team" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="50" height="50"/>
+    <a href="https://github.com/beytullahgorgulu/selenium_JUnit" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="50" height="50"/>
 <!--TestNG-->
-    <a href="https://blog.knoldus.com/overview-of-te" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/TestNG-e1483024713865.png?fit=150%2C190&ssl=1" alt="TestNG" width="35" height="40"/> </a> 
+    <a href="https://github.com/beytullahgorgulu/TestNG" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/TestNG-e1483024713865.png?fit=150%2C190&ssl=1" alt="TestNG" width="35" height="40"/> </a> 
 <!--cucumber-->
-    <a href="https://www.javatpoint.com/cucumber-testing" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="45" height="45"/> 
+    <a href="https://github.com/beytullahgorgulu/Cucumber" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="45" height="45"/> 
 <!--Trello-->
     <a href="https://logos-world.net/trello-logo/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/03/Trello-Logo.png" alt="Trello" width="60" height="35"/> 
     
