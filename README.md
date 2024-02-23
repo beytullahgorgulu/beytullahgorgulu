@@ -47,7 +47,7 @@
 <!--java-->
   <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 <!--SQL-->
-  <a href="https://1000logos.net/mysql-logo/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" width="60" height="40"/></a> 
+  <a href="https://github.com/beytullahgorgulu/SQL" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" width="60" height="40"/></a> 
 <!--css3-->
   <a href="https://pixabay.com/illustrations/logo-css-css3-icon-2582747/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="45" height="45"/> </a>
 <!--html5-->
