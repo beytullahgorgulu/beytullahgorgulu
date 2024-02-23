@@ -67,9 +67,9 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 -->
 
-<!--api test automation
+<!--api test automation-->
     <a href="https://github.com/beytullahgorgulu/API_Automation"><img src="https://apitoolkit.io/blog/api-testing-automation/api-test-automation_png.png" alt="api" width="40" height="40"/></a> 
--->
+<!--selenium-->
       <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
     <!--docker
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p> 
