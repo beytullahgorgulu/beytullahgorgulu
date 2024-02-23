@@ -66,6 +66,10 @@
 <!--mysql
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 -->
+
+<!--api test automation
+    <a href="https://github.com/beytullahgorgulu/API_Automation"><img src="https://apitoolkit.io/blog/api-testing-automation/api-test-automation_png.png" alt="mysql" width="40" height="40"/></a> 
+-->
       <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
     <!--docker
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p> 
@@ -99,10 +103,10 @@
   <a href="https://medium.com/@hanzelkaraagac">
    <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://twitter.com/hanzelkaraagac">
+  <a href="https://twitter.com/accountname">
    <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
   </a>
-  <a href="https://www.instagram.com/hanzelkaraagac/?hl=tr" target="_blank">
+  <a href="https://www.instagram.com/accountname/?hl=tr" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
   <a href="https://discord.com/servers/software-library-1030166206025568356" target="_blank">
