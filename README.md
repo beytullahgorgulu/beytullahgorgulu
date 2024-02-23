@@ -45,7 +45,7 @@
 <!--api test automation-->
 <a href="https://github.com/beytullahgorgulu/API_Automation" rel="noreferrer"><img src="https://www.shutterstock.com/image-vector/api-application-interface-icon-simple-260nw-2188533787.jpg" alt="mysql" width="40" height="40"/></a>
 <!--postman-->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/postman%20logo.png" alt="mysql" width="40" height="40"/></a>
+<a href="https://blue-equinox-164320.postman.co/workspace/API~060337ab-8083-407c-a3e1-f60456966a07/overview"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/postman%20logo.png" alt="mysql" width="40" height="40"/></a>
 <!--css3-->
 <a href="https://pixabay.com/illustrations/logo-css-css3-icon-2582747/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="45" height="45"/></a>
 <!--html5-->
