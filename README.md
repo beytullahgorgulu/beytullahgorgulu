@@ -47,7 +47,7 @@
 <!--jenkins-->
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <!--postman-->
-<a href="https://blue-equinox-164320.postman.co/workspace/API~060337ab-8083-407c-a3e1-f60456966a07/overview"><img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" alt="postman" width="60" height="50"/></a>
+<a href="https://blue-equinox-164320.postman.co/workspace/API~060337ab-8083-407c-a3e1-f60456966a07/overview"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/></a>
 <!--appium-->
 <a href="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png"><img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="60" height="40"/></a>
 <!--css3-->
